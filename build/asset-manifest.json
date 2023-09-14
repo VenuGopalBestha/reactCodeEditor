@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VenuGopalBestha/reactCodeEditor.git/static/css/main.f1c9ebae.css",
+    "main.js": "/VenuGopalBestha/reactCodeEditor.git/static/js/main.e0df3aac.js",
+    "index.html": "/VenuGopalBestha/reactCodeEditor.git/index.html",
+    "main.f1c9ebae.css.map": "/VenuGopalBestha/reactCodeEditor.git/static/css/main.f1c9ebae.css.map",
+    "main.e0df3aac.js.map": "/VenuGopalBestha/reactCodeEditor.git/static/js/main.e0df3aac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c9ebae.css",
+    "static/js/main.e0df3aac.js"
+  ]
+}
